@@ -1,4 +1,4 @@
-# Arduino USB Suspend & Resume
+# Arduino USB Suspend/Sleep & Resume/Wake
 
 ## Overview
 This project provides an Arduino implementation for managing USB suspend and resume functionality. It is particularly useful for power management in embedded systems.
